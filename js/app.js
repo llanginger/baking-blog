@@ -39,6 +39,16 @@ var recipe = {
 
 $(function() {
 
+  $(".my-slider").unslider({
+    infinite: true,
+    autoplay: true,
+    arrows: {
+    //  Unslider default behaviour
+    prev: '<a class="unslider-arrow prev">&#139</a>',
+    next: '<a class="unslider-arrow next">&#155</a>'
+    }
+  });
+
   $(".header-img").css("background-image", "url(" + recipe.heroImage + ")")
 
   $(".post-title-text").text(recipe.title.toUpperCase())
