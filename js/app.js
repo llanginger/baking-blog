@@ -12,27 +12,28 @@ var recipe = {
   [
     {
       head: "1. Getting Set Up",
-      instructions: "Position racks in the top third and center of the oven and preheat to 375 ° F/ 190 ° C/ gas 5. Line two half-sheet pans with parchment paper.",
+      instructions: "First thing’s first - preheat the oven to 375 ° F/ 190 ° C/ gas 5, place racks in the top third and center of oven and measure out the ingredients. You should combine the flour salt and baking soda in the same bowl and keep all other ingredients in their own separate bowls. You should also take this time to prepare your pans with parchment paper. A trick that will save you time and frustration (this one learned from the awesome Momofuku Milk Bar cookbook by Christina Tosi) is to spray your pans with a light coating of PAM (or other cooking spray) before laying out the parchment paper. Unless you have pre-cut parchment, you’ll find that if you don’t grease the pans a little first, the paper will have a tendency to curl up and generally misbehave!",
       imageSrc: ["images/cookies/selections/step-0.1.JPG",
                  "images/cookies/selections/step-0.2.JPG",
                  "images/cookies/selections/step-0.3.JPG",
+                 "images/cookies/selections/step-0.4.JPG",
                 ],
-      notes: "Make sure the first thing you do is turn on your oven. The prep time for the cookies isn't long and you want to be sure that the oven is properly heated!"
+      notes: "One of the most important lessons I learned as I started to take baking more seriously as a “hobby” was that measuring out everything needed in advance saves time and, more importantly, mistakes. Everyone makes mistakes and it can be particularly disheartening to get to the end and realize that you forgot the salt or lost track of how many teaspoons of baking soda you used."
     },
     {
       head: "2. Makin' The Dough",
-      instructions: "Sift the flour, baking soda, and salt together into a medium bowl. Beat the butter and brown sugar together in a large bowl with an electric mixer set on medium speed, occasionally scraping down the sides of the bowl, until light in color, about 11/ 2 minutes. (Or cream the butter and sugar together in a large bowl with a wooden spoon until light in color, about 5 minutes.) Beat in the eggs, one at a time, and then the vanilla. Reduce the mixer speed to low. Add the flour mixture in thirds, mixing just until combined. Stir in the chocolate chips and walnuts. ",
+      instructions: "Place the butter in bowl of your mixer with the paddle attachment and gradually increase the speed to around 6/10 (or its equivalent if your mixer has fewer than 10 speeds). I typically leave it going for about 4-5 minutes - the aim is to get the butter to look very pale and fluffy. Once the desired consistency has been achieved turn off the mixer, scrape down the paddle and the sides of the bowl with a spatula and add the sugar. Once again, gradually ramp the speed up to where it was before and let it chug away for another 3-4 minutes or so. You’re aiming for a very fluffy pale brown mixture with no visible steaks of butter or clumps of sugar - if you see either of these, hit them with your spatula and mix for another minute or two. Set the mixer to its lowest speed and tip in the first egg. Mix until the egg has fully incorporated into the butter. Repeat with the second egg. With the mixer still on low, add the vanilla extract. Once the mixture looks homogenous stop the mixer - you’re ready to add the dry ingredients! Scrape down the bowl and paddle again.",
       imageSrc: ["images/cookies/selections/step-1.1.JPG",
                  "images/cookies/selections/step-1.2.JPG",
                  "images/cookies/selections/step-1.3.JPG",
                  "images/cookies/selections/step-1.4.JPG",
                  "images/cookies/selections/step-1.5.JPG",
                 ],
-      notes: "Don't worry about sifting the flour - just make sure the dry ingredients are mostly evenly-distributed and move on"
+      notes: ""
     },
     {
-      head: "3. Getting Ready To Bake",
-      instructions: "Using a number-16 food-portion scoop with about a 1/ 4-cup/ 60-ml capacity, drop scoops of dough onto the lined pans, spacing them about 3 in/ 7.5 cm apart. You will only be able to fit three or four cookies on each pan. ",
+      head: "3. Dry Ingredients",
+      instructions: "If you haven’t yet, take a whisk or fork and mix the ingredients in the flour bowl to distribute the salt/soda and then tip roughly 1/3 of the flour mixture into the bowl of the mixer. Turn the mixer to its absolute lowest speed and mix JUST until the flour has incorporated into the butter mixture. Repeat 2 more times with the remaining flour. Lastly, add the chocolate chips to the dough. If your mixer is not particularly powerful you might want to do this next step by hand - Turn the mixer to low and mix for a few seconds just to get the chips distributed relatively evenly. Stop the mixer, remove the bowl and with your spatula manually poke around at the dough to fix any spots where the chocolate chips may not have reached.  ",
       imageSrc: ["images/cookies/selections/step-2.1.JPG",
                  "images/cookies/selections/step-2.2.JPG",
                  "images/cookies/selections/step-2.3.JPG",
@@ -42,27 +43,26 @@ var recipe = {
     },
     {
       head: "4. Oven Time",
-      instructions: "Bake, switching the pans from top to bottom and front to back halfway through baking, until the cookies are lightly golden and set around the edges, 14 to 17 minutes. Let the cookies cool on the pans for 5 minutes, then transfer to wire cooling racks and let cool completely. Repeat with the remaining dough on cooled pans. The cookies can be stored in an airtight container at room temperature for up to 5 days.",
-      imageSrc: ["images/cookies/selections/step-3.1.JPG",
-                 "images/cookies/selections/step-3.2.JPG",
+      instructions: "Using a 1/4 cup food scoop (you can do this with a measuring cup but that’s a very frustrating experience), scoop out heaping dollops of dough and place them on the prepared trays. I find that I get a good 6 cookies per tray. Place the trays in the oven and bake for roughly 12-15 minutes, depending on your oven. At the 6 minute mark, switch and rotate both trays to ensure an even distribution of heat.",
+      imageSrc: ["images/cookies/selections/step-3.2.JPG",
                  "images/cookies/selections/step-3.3.JPG",
                  "images/cookies/selections/step-3.4.JPG",
                 ],
-      notes: "After much trial and error, I found that you need to take the cookies out of the oven a good 2 minutes before they look 'done'."
+      notes: "You can make the cookies any size you like - I tend to find that a 1/4 cup scoop is the right size for me. If you make them much smaller you might need to adjust the bake time down a bit"
     },
     {
-      head: "",
-      instructions: "Drop dough by rounded tablespoonfuls about 2 inches apart onto ungreased cookie sheet.",
+      head: "5. Extraction Mission",
+      instructions: "After taking the pans out of the oven, let the cookies cool slowly on the pans for 5 minutes. Over the course of those 5 minutes you’ll see them transform from puffy cake-y circles to beautifully gooey cookies. After 5 minutes gently transfer them to cooling racks and let them sit for 20+ minutes (or, more realistically, as long as you can wait - your self-control will be tested!).",
       imageSrc: ["images/cookies/selections/step-4.1.JPG",
                  "images/cookies/selections/step-4.2.JPG",
                  "images/cookies/selections/step-4.3.JPG",
                  "images/cookies/selections/step-4.4.JPG",
                 ],
-      notes: "You can make the cookies any size you like - I tend to find that a 1/4 cup scoop is the right size for me. If you make them much smaller you might need to adjust the bake time down a bit"
+      notes: "After much trial and error, I found that you need to take the cookies out of the oven a good 2 minutes before they look 'done'."
     },
     {
-      head: "",
-      instructions: "Drop dough by rounded tablespoonfuls about 2 inches apart onto ungreased cookie sheet.",
+      head: "6. Time to Kick Back",
+      instructions: "Serve, obviously, with milk!",
       imageSrc: ["images/cookies/selections/step-5.1.JPG",
                  "images/cookies/selections/step-5.2.JPG",
                  "images/cookies/selections/step-5.3.JPG",
